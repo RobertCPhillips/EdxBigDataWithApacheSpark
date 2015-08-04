@@ -1,0 +1,4 @@
+stopping: vagrant halt
+starting: vagrant up
+
+delete: vagrant destroy
